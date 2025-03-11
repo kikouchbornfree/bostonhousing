@@ -61,7 +61,6 @@
   ],
   "fn": "libedit-3.1.20230828-h5eee18b_0.conda",
   "legacy_bz2_md5": "5cb0cc0e1783419cf8fc1c65fee0f62f",
-  "legacy_bz2_size": 195807,
   "license": "BSD-2-Clause",
   "license_family": "BSD",
   "link": {
@@ -380,7 +379,7 @@
     ],
     "paths_version": 1
   },
-  "requested_spec": "None",
+  "requested_spec": "libedit",
   "sha256": "73ade0165c148c617287f2d910c6aa4e4162f86cd1993b84a95fa6eb2ba72582",
   "size": 183510,
   "subdir": "linux-64",
